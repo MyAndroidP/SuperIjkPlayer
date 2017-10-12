@@ -1,0 +1,2 @@
+# SuperIjkPlayer
+support rtsp rtmp
